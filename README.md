@@ -2,7 +2,7 @@
 
 ## About
 
-A stunning mouse-operated summer sunset, made with HTML, CSS & JavaScript.
+A stunning mouse-operated sunset, made with HTML, CSS & JavaScript, to celebrate the arrival of summer in the Northern Hemisphere.
 
 ## Instructions for Use
 
